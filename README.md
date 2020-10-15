@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm student "Tsuyo-Tsuyo" of Python.
+I'm student programmer of Python.
 
 [![NekoMimi-Cateye's github stats](https://github-readme-stats.vercel.app/api?username=NekoMimi-Cateye&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoMimi-Cateye&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
